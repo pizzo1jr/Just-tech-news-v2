@@ -1,0 +1,25 @@
+{
+  "name": "justtechnewsv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzo1jr/Just-tech-news-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pizzo1jr/Just-tech-news-v2/issues"
+  },
+  "homepage": "https://github.com/pizzo1jr/Just-tech-news-v2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
+}

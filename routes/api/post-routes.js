@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
     .catch(err => {
         console.log(err);
         res.status(500)
-    });
+    }); 
 });
 
 // GET a single post 
